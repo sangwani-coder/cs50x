@@ -1,0 +1,14 @@
+1. Prompt the user to enter a positive integer for height
+2. check if int is < 1 or < 8
+        if input is accepted print out hashes
+        if input is not accepted
+4. reprompt the user to enter an acceptable number
+    if input is accepted print out hashes
+
+5. print hashes
+6. print a new line
+7. print dots to aling pyramid right
+   number of dots:
+        row 0 = height of pyramid -1
+        row 1 = height of pyramid -2
+        row -1 =zero dots

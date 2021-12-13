@@ -1,0 +1,11 @@
+TODO
+
+prompt user for command line arguments
+    check if arg is valid (2 arguments)
+    IF arg is valid
+        OPEN the csv file read content
+            column 1 == name
+            rest of columns STR
+        OPEN text (DNA) file and read content
+        iterate in file to check for consecutive repeats of STR
+        keep track of reapeats (find the longest repeat

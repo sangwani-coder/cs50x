@@ -1,0 +1,13 @@
+1. prompt user for single command line argument
+2. check IF input is a single argument
+3. If program is executed without any command-line arguments or with more than one command-line argument:
+   3.1 print an error message and return from main a value of 1 (which tends to signify an error).
+4. If any of the characters of the command-line argument is not a decimal digit:
+    4.1 print the message Usage: ./caesar key and return from main a value of 1.
+
+5. output plaintext: (without a newline) and then prompt the user for a string of plaintext (using get_string).
+6. output ciphertext: (without a newline) followed by the plaintext’s corresponding ciphertext, with each
+    alphabetical character in the plaintext “rotated” by k positions; non-alphabetical characters should be outputted unchanged.
+7. program must preserve case: capitalized letters, though rotated, must remain capitalized letters; lowercase letters, though rotated,
+    must remain lowercase letters.
+8. After outputting ciphertext, print a newline. exit program

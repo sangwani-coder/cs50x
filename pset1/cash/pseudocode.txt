@@ -1,0 +1,17 @@
+prompt user for amount of change
+initialise the coins = 0
+use the largest coins possible i.e smaller than the sum
+    keeping track of coins used
+    add two coins and subtract it from the sum
+    repeat line 5 until the sum becomes 0
+print the number of coins
+
+NOTES
+accept positive inputs only
+use the do while loop to check if input is positive
+multiply dollars by 100 to convert to cents
+round cents to the nearest penny (math.h)
+keep track of change
+keep track of number of coins used
+print the number of coins
+coins available:
