@@ -2,7 +2,7 @@
 ## Introduction to Computer Science Projects
 This repository contains projects I completed during my cs50 course at Harvard Univeristy.
 ## Problem sets
-I completed a total 9 problemts which each included a different number of projects.
+I completed a total 9 problem sets. Each set included a different number of projects.
 **pset1**
 [Problem set 1](./pset1/)
 **pset2**
