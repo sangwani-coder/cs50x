@@ -1,8 +1,7 @@
-# CS50 2019
 ## Harvard University introduction to Computer Science
-<img href='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRNcTH6PxdrsZ079qT9o6BHkYvjR8_y_BH_g&usqp=CAU'></img>
+<img src='https://github.com/sangwani-coder/cs50x/blob/main/cs50.png'></img>
 
-I took cs50 in 2019 and learned to think algorithmically and solve programming problems efficiently. I completed all the 9 problem sets and learned to program in the following languages:
+I took CS50 in 2019 and learned to think algorithmically and solve programming problems efficiently. I completed all the 9 problem sets and learned to program in the following languages:
 - C
 - Python
 - Lua
